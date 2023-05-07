@@ -1,1 +1,2 @@
-# **This is a simple calculator, built using HTML, CSS, and JavaScript.**
+#**Simple Calculator**
+# This is a simple calculator, built using HTML, CSS, and JavaScript.
